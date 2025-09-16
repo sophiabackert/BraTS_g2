@@ -24,6 +24,8 @@ This repository contains the implementation of our project: brain tumor and edem
 
 The aim was to develop an automatic segmentation method for brain tumors and surrounding edema from clinical MRI data, using traditional image processing approaches.
 
+So far, we have not been able to achieve acceptable results with this SimpleITK approach. Therefore, this project definitely has room for improvement. However, due to time constraints in our course, we did not further optimize it.
+
 ## Method
 We used a combination of preprocessing, image enhancement, and classical segmentation methods to identify and extract tumor and edema regions from MRI scans.
 
@@ -32,4 +34,4 @@ All relevant scripts can be found in the BraTS-SimpleITK folder.
 Please refer to the respective Python files for implementation details and usage instructions.
 
 ## Contributors
-Developed by Sophia Backert, Annika Braun, Gun Marit Ingwersen and Elham Mohammadi as part of our university project.
+Developed by Sophia Backert as part of group B from our university project.
