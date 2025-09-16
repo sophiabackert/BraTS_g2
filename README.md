@@ -34,4 +34,4 @@ All relevant scripts can be found in the BraTS-SimpleITK folder.
 Please refer to the respective Python files for implementation details and usage instructions.
 
 ## Contributors
-Developed by Sophia Backert as part of group B from our university project.
+Developed by Sophia Backert as part of group B in our university project.
